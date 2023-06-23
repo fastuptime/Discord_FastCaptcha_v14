@@ -1,0 +1,26 @@
+{
+  "name": "fastcaptcha",
+  "version": "1.0.0",
+  "description": "Fastcaptcha v14 FastUptime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fastcaptcha",
+    "fastuptime",
+    "fastcaptchav14",
+    "fastuptimev14"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "captcha-canvas": "^3.2.1",
+    "colors": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "glob": "^7.2.0",
+    "moment": "^2.29.4",
+    "wio.db": "^4.0.22"
+  }
+}
